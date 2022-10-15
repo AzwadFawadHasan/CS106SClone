@@ -1,0 +1,46 @@
+.boxTitle {
+    border: 3px solid black;
+    position:relative;
+    text-align: center;
+    background-color: black;
+    color:whitesmoke;
+    
+    
+}
+.mainBox {
+    border: 3px solid black;
+    position:relative;
+    margin:auto;    
+
+}
+
+.descriptionBox {
+    border: 1px solid red;
+    position:relative;
+    background:  #f8b195;;
+    
+}
+.prerequisitesBox{
+    border: 1px solid green;
+    position:relative;
+    background: #f67280; 
+}
+    
+
+
+.expectedOutcomeBox {
+    border: 1px solid blue;
+    position:relative;
+    background: #c06c84; 
+}
+
+.suggestedBooksBox {
+    border: 1px solid violet;
+    position:relative;
+    background: #355c7d; 
+}
+body {
+    background-color:  #043142;;
+    /*background-image: url('coding.gif');*/
+    
+  }

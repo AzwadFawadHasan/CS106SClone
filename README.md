@@ -73,4 +73,4 @@ Two generic tags with no intended purpose or style:
 ## css selectors
 
 class -> .
-id -> #
+id -> # 
