@@ -2,9 +2,8 @@
     border: 3px solid black;
     position:relative;
     text-align: center;
-    background-color: black;
-    color:whitesmoke;
     
+    background: linear-gradient(115deg, #fdfcfb, #e2d1c3);
     
 }
 .mainBox {
@@ -17,13 +16,13 @@
 .descriptionBox {
     border: 1px solid red;
     position:relative;
-    background:  #f8b195;;
+    background:  #d7f9f8;;
     
 }
 .prerequisitesBox{
     border: 1px solid green;
     position:relative;
-    background: #f67280; 
+    background: #ffffea; 
 }
     
 
@@ -31,16 +30,18 @@
 .expectedOutcomeBox {
     border: 1px solid blue;
     position:relative;
-    background: #c06c84; 
+    background: #fff0d4; 
 }
 
 .suggestedBooksBox {
     border: 1px solid violet;
     position:relative;
-    background: #355c7d; 
+    background: #fbe0e0; 
 }
 body {
-    background-color:  #043142;;
-    /*background-image: url('coding.gif');*/
+    background: linear-gradient(115deg, #ffffff, #ffe3fb);
+    /*background-image: url('coding.gif');
+    
+    background-color: #043142;*/
     
   }
