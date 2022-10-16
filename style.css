@@ -5,8 +5,12 @@
     font-family: 'Silkscreen', cursive;
     
     background: linear-gradient(115deg, #fdfcfb, #e2d1c3);
+    padding: 20px;
     
 }
+
+
+  
 .mainBox {
     border: 3px solid black;
     position:relative;
@@ -16,31 +20,56 @@
 
 }
 
+@keyframes descriptionBoxAnimation {
+    from {background-color: #d7f9f8;}
+    to {background-color: #adfdfa;}
+  }
+
 .descriptionBox {
     border: 1px solid red;
     position:relative;
-    background:  #d7f9f8;;
+    background:  #d7f9f8;
+    animation-name: descriptionBoxAnimation;
+    animation-duration: 4s;
     
     
 }
+
+@keyframes prerequisitesBoxAnimation {
+    from {background-color: #ffffea;}
+    to {background-color: #ccccb4;}
+  }
 .prerequisitesBox{
     border: 1px solid green;
     position:relative;
-    background: #ffffea; 
+    background: #ffffea;
+    animation-name: prerequisitesBoxAnimation;
+    animation-duration: 4s;
 }
     
 
+@keyframes expectedOutcomeBoxAnimation {
+    from {background-color: #fff0d4;}
+    to {background-color: #fee5b5;}
+  }
 
 .expectedOutcomeBox {
     border: 1px solid blue;
     position:relative;
     background: #fff0d4; 
+    animation-name: expectedOutcomeBoxAnimation;
+    animation-duration: 4s;
 }
-
+@keyframes suggestedBooksBoxAnimation {
+    from {background-color: #fbe0e0;}
+    to {background-color: #f8cbcb;}
+  }
 .suggestedBooksBox {
     border: 1px solid violet;
     position:relative;
     background: #fbe0e0; 
+    animation-name: suggestedBooksBoxAnimation;
+    animation-duration: 4s;
 }
 table, th, td {
     border: 1px solid;
