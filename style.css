@@ -30,7 +30,7 @@
     position:relative;
     background:  #d7f9f8;
     animation-name: descriptionBoxAnimation;
-    animation-duration: 4s;
+    animation-duration: 13s;
     
     
 }
@@ -44,7 +44,7 @@
     position:relative;
     background: #ffffea;
     animation-name: prerequisitesBoxAnimation;
-    animation-duration: 4s;
+    animation-duration: 13s;
 }
     
 
@@ -69,7 +69,7 @@
     position:relative;
     background: #fbe0e0; 
     animation-name: suggestedBooksBoxAnimation;
-    animation-duration: 4s;
+    animation-duration: 13s;
 }
 table, th, td {
     border: 1px solid;
@@ -88,4 +88,7 @@ body {
     
     background-color: #043142;*/
     
+  }
+  span {
+    font-family: 'Oswald', sans-serif;
   }
