@@ -2,6 +2,7 @@
     border: 3px solid black;
     position:relative;
     text-align: center;
+    font-family: 'Silkscreen', cursive;
     
     background: linear-gradient(115deg, #fdfcfb, #e2d1c3);
     
@@ -9,7 +10,9 @@
 .mainBox {
     border: 3px solid black;
     position:relative;
-    margin:auto;    
+    margin:auto; 
+    font-family: 'Kalam', cursive;
+    
 
 }
 
@@ -17,6 +20,7 @@
     border: 1px solid red;
     position:relative;
     background:  #d7f9f8;;
+    
     
 }
 .prerequisitesBox{
@@ -37,6 +41,17 @@
     border: 1px solid violet;
     position:relative;
     background: #fbe0e0; 
+}
+table, th, td {
+    border: 1px solid;
+  }
+img{
+    width: 100%;
+    height: auto;
+    
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
 }
 body {
     background: linear-gradient(115deg, #ffffff, #ffe3fb);
