@@ -5,7 +5,7 @@
 }
 
 .mainBox{
-    border: 1px solid red;
+    border: 1px solid #0b0f18;
     position: absolute;
     top:25%;
     right:20%;
@@ -14,8 +14,8 @@
 }
 
 .navBox{
-    border: 1px solid green;
-    position:absolute;
+    border: 1px solid #0b0f18;
+    position:fixed;
     top:25%;
     right:66%;
     left: 15%;
@@ -89,4 +89,8 @@
 footer{
     color:white;
     font-size: 10px;
+}
+
+#iAmFeelingLucky{
+    color: pink;
 }
