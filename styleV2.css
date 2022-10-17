@@ -1,5 +1,5 @@
 .bodyClass {
-    background-color: rgb(25, 25, 42);
+    background-color:#0b0f18;
     border: 1px white;
 
 }
@@ -22,4 +22,34 @@
     text-align: right;
     
 
+}
+
+.logo{
+    height: 25%;
+    width: 20%;
+    
+}
+#myNews {
+    color:yellow;
+}
+
+#myDetails {
+    color:#48d67c;
+}
+
+
+#myInstructors {
+    color:#5d9ff0;
+}
+
+#mySyllabus {
+    color:#9e84ed;
+}
+
+#myAMAResponses {
+    color:#dd6667;
+}
+
+#navList {
+    list-style: none;
 }
