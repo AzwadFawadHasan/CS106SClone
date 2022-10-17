@@ -81,3 +81,12 @@
 #myfirstH2{
     color:white;
 }
+.instructorImageClass {
+    width: 80%;
+    height: 80%;
+}
+
+footer{
+    color:white;
+    font-size: 10px;
+}
