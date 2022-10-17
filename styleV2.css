@@ -1,0 +1,25 @@
+.bodyClass {
+    background-color: rgb(25, 25, 42);
+    border: 1px white;
+
+}
+
+.mainBox{
+    border: 1px solid red;
+    position: absolute;
+    top:25%;
+    right:20%;
+    left: 35%;
+    
+}
+
+.navBox{
+    border: 1px solid green;
+    position:absolute;
+    top:25%;
+    right:66%;
+    left: 15%;
+    text-align: right;
+    
+
+}
