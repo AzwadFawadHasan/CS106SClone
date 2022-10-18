@@ -1,5 +1,7 @@
 # CSE309Assignment1
  A webpage built using only html and CSS. The first assignment for CSE309 Web app development.
+ Site can be viewed at:
+ https://azwadfawadhasan.github.io/CSE309Assignment1/
 
 
 # mindmap of the things to use
